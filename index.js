@@ -441,7 +441,7 @@ function shuffle(queue) {
 /*---------------------*/
 /* MISC FUNCTIONS END */
 /*-------------------*/
-const devs = ["450711003324350485" , "286536938561732608"]
+const devs = ["450711003324350485" , "445924362655236096"]
 
 const adminprefix = "J";
 client.on('message', message => {
