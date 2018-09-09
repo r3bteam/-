@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NDg2MTQwODMyMTY1MTM0MzM2.DncEhQ.8Hqa9dXMkL3D42g7uwayBL0ky04
+owner=445924362655236096 
+prefix=J
+game=Only juliě.
 stayinchannel=true
 songinstatus=true
